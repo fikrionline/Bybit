@@ -1,6 +1,6 @@
 # Bybit API keys
-api_key = 'Kw8qXWsRhhwYBUqBuN'
-api_secret = 'huGDTCtuxTPUO9s6AU3PKr1XAqtwD6viJf3N'
+api_key = 'rhmV5MDa8EZqwqXj9C'
+api_secret = 'GwDbNxp6kK1zz68MT8sYfPJ0cp6XPYxZSzj5'
 
 # Binance API Keys
 binance_api_key = 'hSKoPlxAG6NlOOMykSgh7XeHFNhf0Mz6FWgo7Z7phjVib9WNp9Wig0tssmwrZFqr'

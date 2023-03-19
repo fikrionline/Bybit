@@ -1,0 +1,7 @@
+OPUSDT	= 0.1 / 0.136
+APTUSDT	= 0.01 / 0.0025
+SOLUSDT = 0.1 / 0.014
+
+------- HUGE ----------
+MATICUSDT = 1 / 2.41
+XRPUSDT   = 1 / 7.27
